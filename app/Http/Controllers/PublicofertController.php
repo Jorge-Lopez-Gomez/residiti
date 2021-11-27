@@ -6,7 +6,7 @@ use App\Models\Clientes;
 use App\Models\Productos;
 use App\Models\Proveedores;
 use Illuminate\Http\Request;
-use App\Models\publicofert;
+use App\Models\Publicofert;
 class PublicofertController extends Controller
 { 
     public function index(){
