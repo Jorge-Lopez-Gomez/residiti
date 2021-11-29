@@ -177,7 +177,7 @@
     <div class="row_cards text-center">
         <div class="col">
             <div class="single-content">
-                <img src="{{ asset('img/categoria/certificate.png')}}" alt="Categorias Higienika Oficce Perú">
+                <img src="{{ asset('img/categoria/certificate.png')}}" alt="Categorias Higienika Oficce diti">
                 <div class="text-content">
                     <h3>Cursos del CONOCER con fines de certificación</h3>
                     <hr class="style2">
@@ -187,7 +187,7 @@
         </div>
         <div class="col">
             <div class="single-content">
-                <img src="{{ asset('img/categoria/desarollo.png')}}" alt="Categorias Higienika Oficce Perú">
+                <img src="{{ asset('img/categoria/desarollo.png')}}" alt="Categorias Higienika Oficce diti">
                 <div class="text-content">
                     <h3>Desarrollo</h3>
                     <hr class="style2">
@@ -197,7 +197,7 @@
         </div>
         <div class="col">
             <div class="single-content">
-                <img src="{{ asset('img/categoria/diseño.png')}}" alt="Categorias Higienika Oficce Perú">
+                <img src="{{ asset('img/categoria/diseño.png')}}" alt="Categorias Higienika Oficce diti">
                 <div class="text-content">
                     <h3>Diseño</h3>
                     <hr class="style2">
@@ -289,7 +289,7 @@
 @section('footer')
 <footer class="footer">
     <div class="l-footer">
-        <img  class="footer_img" src="{{asset('img/di.jpeg')}}" alt="JLDM | Proyectos">
+        <img  class="footer_img" src="{{asset('img/di.jpeg')}}" alt="DITI | Proyectos">
         <h2 style="color: rgb(28, 96, 223)" class="footer_img">Desarrollo e Innovaciones Tecnológicas Inteligentes</h2>
     <p>Somos una organización emprendedora, que ofrece las herramientas tecnológicas para desempeñar trabajos con soluciones de vanguardia, ofreciendo a nuestros clientes venta de equipos e insumos, así como, servicio de mantenimiento.
     </p>
